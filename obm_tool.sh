@@ -1,5 +1,5 @@
 #!/bin/bash
-# Sizpa MF OBM Ajan Conf Tool
+# Sizpa MF OBM Agent Conf Tool
 # Date 02.2023
 # Author m0zs0y
 
